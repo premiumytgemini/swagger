@@ -7,7 +7,7 @@ info:
           <! \$ { 
         </style>
         }
-        <foo-b id="><img src=x onerror='&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;'>">hmm...</foo-b>
+        <foo-b id= ><img src=x onerror=&#97;&#108;&#101;&#114;&#116;(1)>hmm...</foo-b>
       </a></table></li></mi></foo-test></math>
   version: production
 basePath: /JSSResource/
