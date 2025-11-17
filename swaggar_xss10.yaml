@@ -2,7 +2,13 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <math><x href="&#x6A;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3A;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x27;&#x74;&#x65;&#x78;&#x74;&#x61;&#x72;&#x65;&#x61;&#x27;&#x29;" onmouseover="&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x27;&#x74;&#x65;&#x78;&#x74;&#x61;&#x72;&#x65;&#x61;&#x27;&#x29;">Hover for XSS</x></math>
+    <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
+        <style>
+          <! ${ 
+        </style>
+        }
+        <foo-b id="><img SrC=x onerror=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;">hmm...</foo-b>
+      </a></table></li></mi></foo-test></math>
   version: production
 basePath: /JSSResource/
 produces:
