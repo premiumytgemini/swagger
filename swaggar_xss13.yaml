@@ -4,10 +4,10 @@ info:
   description: |
     <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
         <style>
-          <! ${
+          <! \$ { 
         </style>
         }
-        <foo-b id="" ></a><iframe src="&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;"></iframe></foo-b>
+        <foo-b id="><img src=x onerror='&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;'>">hmm...</foo-b>
       </a></table></li></mi></foo-test></math>
   version: production
 basePath: /JSSResource/
