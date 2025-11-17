@@ -2,7 +2,13 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><style></math><img src=x onerror=window["al"+"ert"]('textarea')>
+    <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
+        <style>
+          <! \${ 
+        </style>
+        }
+        <foo-b id="><img src=x onerror=&#97;&#108;&#101;&#114;&#116;('textarea')>">hmm...</foo-b>
+      </a></table></li></mi></foo-test></math>
   version: production
 basePath: /JSSResource/
 produces:
@@ -27,7 +33,13 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+    <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
+        <style>
+          <! \${ 
+        </style>
+        }
+        <foo-b id="><img src=x onerror=&#97;&#108;&#101;&#114;&#116;('textarea')>">hmm...</foo-b>
+      </a></table></li></mi></foo-test></math>
 
           format: int64
           in: path
