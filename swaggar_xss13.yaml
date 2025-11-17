@@ -4,10 +4,10 @@ info:
   description: |
     <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
         <style>
-          <! \$ { 
+          <! \${ 
         </style>
         }
-        <foo-b id= ><img src=x onerror=&#97;&#108;&#101;&#114;&#116;(1)>hmm...</foo-b>
+        <foo-b id="><img src onerror='&#97;&#108;&#101;&#114;&#116;&#40;1&#41;'>">hmm...</foo-b>
       </a></table></li></mi></foo-test></math>
   version: production
 basePath: /JSSResource/
