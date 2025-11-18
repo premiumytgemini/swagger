@@ -1,8 +1,8 @@
-swagger: '2.0'
+swagger: '3.1'
 info:
   title: Classic API Resource Documentation
   description: |
-    a<style><!--</style><a id="--!><img src=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;>>
+    <template shadowrootmode="open"><slot name="xss"><img src=x onerror=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;></slot></template>
   version: production
 basePath: /JSSResource/
 produces:
