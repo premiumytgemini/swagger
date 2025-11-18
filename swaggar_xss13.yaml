@@ -2,13 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <math><foo-test><mi><li><table><foo-test><li></li></foo-test><a>
-        <style>
-          <! \$ { 
-        </style>
-        }
-        <foo-b id="><img src onerror=&#97;&#108;&#101;&#114;&#116;(1)>hmm...</foo-b>
-      </a></table></li></mi></foo-test></math>
+    a<style><!--</style><a id="--!><img src=x onerror=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;>>
   version: production
 basePath: /JSSResource/
 produces:
